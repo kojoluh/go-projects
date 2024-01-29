@@ -10,6 +10,7 @@
 *.js
 # Test binary, built with `go test -c`
 *.test
+/*/.aws*
 
 # docker related files
 docker
