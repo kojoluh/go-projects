@@ -12,6 +12,7 @@
 *.test
 /*/.aws*
 *.zip
+main
 
 # docker related files
 docker
