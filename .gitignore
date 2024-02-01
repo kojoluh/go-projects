@@ -8,6 +8,7 @@
 *.so
 *.dylib
 *.js
+*.py
 # Test binary, built with `go test -c`
 *.test
 /*/.aws*
