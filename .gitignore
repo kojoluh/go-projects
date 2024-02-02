@@ -16,6 +16,7 @@
 /*/.aws*
 *.zip
 main
+*.env
 
 # docker related files
 docker
