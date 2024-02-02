@@ -49,3 +49,10 @@ $ aws lambda invoke --function-name go-lambda-function --cli-binary-format raw-i
  - link http://github.com/kojoluh/goprojects
 ## 11. A.I Bot with Wolfram, Wit.ai and Go
  - link http://github.com/kojoluh/goprojects
+
+------------------
+Pointers
+Concurrency
+Goroutines
+mutex
+Structs and Struct methods

@@ -9,11 +9,14 @@
 *.dylib
 *.js
 *.py
+*.java
+*.class
 # Test binary, built with `go test -c`
 *.test
 /*/.aws*
 *.zip
 main
+*.env
 
 # docker related files
 docker
